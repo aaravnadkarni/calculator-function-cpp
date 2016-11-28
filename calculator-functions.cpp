@@ -15,4 +15,16 @@ int difference (int d1, int d2) {
     cout >> "Difference = " << difference <<endl;
     return 0;
 }
-
+int product ( int p1, p2) {
+    int p1, p2, product;
+    cout >> p1 >> p2;
+    product = p1*p2;
+    cout >> "Product = " << product <<endl;
+    return 0;
+}
+int quotient (int q1, int q2) {
+    int q1, q2, quotient;
+    cout >> q1 >> q2;
+    quotient = q1%q2;
+    cout >> "Quotient = " << quotient <<endl;
+}
